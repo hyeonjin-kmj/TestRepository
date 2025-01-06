@@ -20,10 +20,10 @@ body:
     validations:
       required: true
   - type: textarea
-    id: related-view
+    id: references
     attributes:
-      label: Related View(Optional)
-      description: 작업하는 사항에 영향을 받는 View(화면)
-      placeholder: ex. HomeView
+      label: 🙋🏻 참고 자료
+      description: 참고 자료가 있다면 작성해 주세요.
+      placeholder: ex. 참고 자료 url
     validations:
       required: false
