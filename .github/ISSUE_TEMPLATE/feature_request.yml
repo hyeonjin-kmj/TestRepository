@@ -1,8 +1,6 @@
-name: Feature request
+name: ✨ Feature
 title: '이슈 템플릿'
-labels: '기능'
-assignees: 'hyeonjin-kmj'
-description: Something went wrong and you need help?
+description: 새로운 기능 추가
 
 body:
   - type: textarea
