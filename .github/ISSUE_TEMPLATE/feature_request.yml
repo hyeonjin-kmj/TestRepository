@@ -1,14 +1,14 @@
 name: ✨ Feature
-title: '[Feat ]'
+title: '[] '
 description: 새로운 기능 추가
 
 body:
   - type: textarea
     id: feature-contents
     attributes:
-      label: Feature 설명
-      description: 작업할 Feature에 대한 설명을 적어주세요.
-      placeholder: ex. 타이머 화면 그리기
+      label: 📄 설명
+      description: 새로운 기능에 대한 설명을 작성해 주세요.
+      placeholder: 자세히 적을수록 좋습니다!
     validations:
       required: true
   - type: input
